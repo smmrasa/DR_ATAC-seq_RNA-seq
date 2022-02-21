@@ -1,0 +1,13 @@
+FileName,SampleName,Group,GroupPriority
+Kidney_LTDR_rep1_trimed75.fastq,Kidney_LTDR_rep1,Kidney_LTDR,3
+Kidney_LTDR_rep2.fastq,Kidney_LTDR_rep2,Kidney_LTDR,3
+Kidney_LTDR_rep3_trimed75.fastq,Kidney_LTDR_rep3,Kidney_LTDR,3
+Kidney_LTAL_rep1.fastq,Kidney_LTAL_rep1,Kidney_LTAL,2
+Kidney_LTAL_rep2.fastq,Kidney_LTAL_rep2,Kidney_LTAL,2
+Kidney_LTAL_rep3.fastq,Kidney_LTAL_rep3,Kidney_LTAL,2
+Kidney_Young_rep1.fastq,Kidney_Young_rep1,Kidney_Young,1
+Kidney_Young_rep2.fastq,Kidney_Young_rep2,Kidney_Young,1
+Kidney_Young_rep3.fastq,Kidney_Young_rep3,Kidney_Young,1
+Kidney_STDR_rep1.fastq,Kidney_STDR_rep1,Kidney_STDR,4
+Kidney_STDR_rep2.fastq,Kidney_STDR_rep2,Kidney_STDR,4
+Kidney_STDR_rep3.fastq,Kidney_STDR_rep3,Kidney_STDR,4

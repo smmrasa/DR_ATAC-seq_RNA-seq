@@ -1,0 +1,13 @@
+FileName,SampleName,Group,GroupPriority
+Heart_Young_rep1.fastq,Heart_Young_rep1,Heart_Young,1
+Heart_Young_rep2.fastq,Heart_Young_rep2,Heart_Young,1
+Heart_Young_rep3.fastq,Heart_Young_rep3,Heart_Young,1
+Heart_LTDR_rep1.fastq,Heart_LTDR_rep1,Heart_LTDR,3
+Heart_LTDR_rep2.fastq,Heart_LTDR_rep2,Heart_LTDR,3
+Heart_LTDR_rep3.fastq,Heart_LTDR_rep3,Heart_LTDR,3
+Heart_LTAL_rep1.fastq,Heart_LTAL_rep1,Heart_LTAL,2
+Heart_LTAL_rep2.fastq,Heart_LTAL_rep2,Heart_LTAL,2
+Heart_LTAL_rep3.fastq,Heart_LTAL_rep3,Heart_LTAL,2
+Heart_STDR_rep1.fastq,Heart_STDR_rep1,Heart_STDR,4
+Heart_STDR_rep2.fastq,Heart_STDR_rep2,Heart_STDR,4
+Heart_STDR_rep3.fastq,Heart_STDR_rep3,Heart_STDR,4

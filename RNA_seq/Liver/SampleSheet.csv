@@ -1,0 +1,13 @@
+FileName,SampleName,Group,GroupPriority
+Liver_LTDR_rep1.fastq,Liver_LTDR_rep1,Liver_LTDR,3
+Liver_LTDR_rep2.fastq,Liver_LTDR_rep2,Liver_LTDR,3
+Liver_LTDR_rep3.fastq,Liver_LTDR_rep3,Liver_LTDR,3
+Liver_LTAL_rep1.fastq,Liver_LTAL_rep1,Liver_LTAL,2
+Liver_LTAL_rep2.fastq,Liver_LTAL_rep2,Liver_LTAL,2
+Liver_LTAL_rep3.fastq,Liver_LTAL_rep3,Liver_LTAL,2
+Liver_Young_rep1.fastq,Liver_Young_rep1,Liver_Young,1
+Liver_Young_rep2.fastq,Liver_Young_rep2,Liver_Young,1
+Liver_Young_rep3.fastq,Liver_Young_rep3,Liver_Young,1
+Liver_STDR_rep1.fastq,Liver_STDR_rep1,Liver_STDR,4
+Liver_STDR_rep2.fastq,Liver_STDR_rep2,Liver_STDR,4
+Liver_STDR_rep3.fastq,Liver_STDR_rep3,Liver_STDR,4

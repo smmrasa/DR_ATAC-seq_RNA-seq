@@ -1,0 +1,322 @@
+© 2000-2020 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+CEBPB	activation	CEBPB		
+CEBPB	expression	CEBPB		
+CEBPB	expression	IFNG		
+CEBPB	expression	IL1B		
+CEBPB	expression	IL2		
+CEBPB	expression	IL5		
+CEBPB	expression	NOS2		
+CEBPB	expression	TNF		
+CEBPB	inhibition	CEBPB		
+CEBPB	protein-DNA interactions	IL1B		
+CEBPB	protein-DNA interactions	IL5		
+CEBPB	protein-DNA interactions	NOS2		
+CEBPB	protein-DNA interactions	TNF		
+CEBPB	protein-protein interactions	CEBPB		
+CEBPB	reaction	CEBPB		
+CEBPB	transcription	CEBPB		
+CEBPB	transcription	IL1B		
+CEBPB	transcription	IL2		
+CEBPB	transcription	NOS2		
+CEBPB	transcription	SIRT1		
+CEBPB	transcription	TNF		
+CEBPB	translocation	CEBPB		
+DDX58	activation	IRF3		
+DDX58	activation	MAVS		
+DDX58	activation	STAT1		
+DDX58	protein-protein interactions	DDX58		
+DDX58	protein-protein interactions	IFIH1		
+DDX58	protein-protein interactions	IRF3		
+DDX58	protein-protein interactions	MAVS		
+DDX58	protein-protein interactions	STAT1		
+IFIH1	activation	MAVS		
+IFIH1	protein-protein interactions	IFIH1		
+IFIH1	protein-protein interactions	MAVS		
+IFN Beta	protein-protein interactions	IFNG		
+IFN Beta	translocation	IFN Beta		
+IFNG	activation	IFNG		
+IFNG	activation	IRF1		
+IFNG	activation	STAT1		
+IFNG	expression	IFNG		
+IFNG	expression	IRF1		
+IFNG	expression	IRF3		
+IFNG	expression	Interferon alpha		
+IFNG	expression	STAT1		
+IFNG	inhibition	STAT1		
+IFNG	localization	IFNG		
+IFNG	localization	IRF1		
+IFNG	localization	STAT1		
+IFNG	modification	STAT1		
+IFNG	molecular cleavage	IRF1		
+IFNG	phosphorylation	IRF1		
+IFNG	phosphorylation	STAT1		
+IFNG	protein-protein interactions	IFNG		
+IFNG	protein-protein interactions	Interferon alpha		
+IFNG	protein-protein interactions	STAT1		
+IFNG	regulation of binding	IRF1		
+IFNG	regulation of binding	STAT1		
+IFNG	transcription	IFNG		
+IFNG	transcription	IRF1		
+IFNG	transcription	STAT1		
+IFNG	translocation	IFNG		
+IFNG	translocation	IRF1		
+IFNG	translocation	STAT1		
+IFNL1	translocation	IFNL1		
+IL17A	protein-protein interactions	IL17A		
+IL17A	translocation	IL17A		
+IL1B	activation	CEBPB		
+IL1B	activation	IRF1		
+IL1B	activation	Interferon alpha		
+IL1B	activation	STAT1		
+IL1B	expression	CEBPB		
+IL1B	expression	STAT1		
+IL1B	inhibition	STAT1		
+IL1B	protein-protein interactions	Interferon alpha		
+IL1B	translocation	IL1B		
+IL2	activation	IL2		
+IL2	protein-protein interactions	IL17A		
+IL2	protein-protein interactions	IL2		
+IL2	translocation	IL2		
+IL5	protein-protein interactions	IL5		
+IL5	translocation	IL5		
+IRF1	activation	IFN Beta		
+IRF1	activation	NOS2		
+IRF1	activation	STAT1		
+IRF1	expression	DDX58		
+IRF1	expression	IFIH1		
+IRF1	expression	IFN Beta		
+IRF1	expression	IFNG		
+IRF1	expression	IFNL1		
+IRF1	expression	IL1B		
+IRF1	expression	IRF1		
+IRF1	expression	IRF7		
+IRF1	expression	Interferon alpha		
+IRF1	expression	NOS2		
+IRF1	expression	SOCS1		
+IRF1	expression	STAT1		
+IRF1	expression	TNF		
+IRF1	localization	IFNG		
+IRF1	molecular cleavage	IRF1		
+IRF1	phosphorylation	STAT1		
+IRF1	protein-DNA interactions	IFN Beta		
+IRF1	protein-DNA interactions	IFNL1		
+IRF1	protein-DNA interactions	IL1B		
+IRF1	protein-DNA interactions	IRF1		
+IRF1	protein-DNA interactions	Interferon alpha		
+IRF1	protein-DNA interactions	NOS2		
+IRF1	protein-DNA interactions	SOCS1		
+IRF1	protein-DNA interactions	STAT1		
+IRF1	protein-protein interactions	IFN Beta		
+IRF1	protein-protein interactions	STAT1		
+IRF1	regulation of binding	IRF7		
+IRF1	regulation of binding	NOS2		
+IRF1	regulation of binding	STAT1		
+IRF1	transcription	IFN Beta		
+IRF1	transcription	IFNL1		
+IRF1	transcription	Interferon alpha		
+IRF1	transcription	SOCS1		
+IRF1	transcription	TNF		
+IRF1	translocation	IRF1		
+IRF3	activation	IRF3		
+IRF3	activation	IRF7		
+IRF3	activation	STAT1		
+IRF3	expression	DDX58		
+IRF3	expression	IFIH1		
+IRF3	expression	IFN Beta		
+IRF3	expression	IFNG		
+IRF3	expression	IFNL1		
+IRF3	expression	IL17A		
+IRF3	expression	IRF1		
+IRF3	expression	IRF7		
+IRF3	expression	Interferon alpha		
+IRF3	expression	NOS2		
+IRF3	expression	STAT1		
+IRF3	expression	TLR4		
+IRF3	expression	TNF		
+IRF3	localization	Interferon alpha		
+IRF3	molecular cleavage	IRF3		
+IRF3	phosphorylation	IRF3		
+IRF3	phosphorylation	STAT1		
+IRF3	protein-DNA interactions	IFN Beta		
+IRF3	protein-DNA interactions	IFNL1		
+IRF3	protein-DNA interactions	IRF3		
+IRF3	protein-DNA interactions	IRF7		
+IRF3	protein-DNA interactions	Interferon alpha		
+IRF3	protein-DNA interactions	TNF		
+IRF3	protein-protein interactions	DDX58		
+IRF3	protein-protein interactions	IRF3		
+IRF3	protein-protein interactions	IRF7		
+IRF3	reaction	IRF3		
+IRF3	regulation of binding	IRF3		
+IRF3	transcription	IFN Beta		
+IRF3	transcription	IRF3		
+IRF3	transcription	IRF7		
+IRF3	transcription	Interferon alpha		
+IRF3	transcription	TNF		
+IRF3	translocation	IRF3		
+IRF3	ubiquitination	IRF3		
+IRF7	activation	IRF7		
+IRF7	expression	DDX58		
+IRF7	expression	IFIH1		
+IRF7	expression	IFN Beta		
+IRF7	expression	IFNL1		
+IRF7	expression	IRF1		
+IRF7	expression	IRF7		
+IRF7	expression	Interferon alpha		
+IRF7	expression	SOCS1		
+IRF7	expression	STAT1		
+IRF7	expression	TLR4		
+IRF7	localization	Interferon alpha		
+IRF7	protein-DNA interactions	IFN Beta		
+IRF7	protein-DNA interactions	IRF3		
+IRF7	protein-DNA interactions	Interferon alpha		
+IRF7	protein-protein interactions	IRF3		
+IRF7	protein-protein interactions	IRF7		
+IRF7	protein-protein interactions	SOCS1		
+IRF7	reaction	IRF7		
+IRF7	regulation of binding	IRF3		
+IRF7	regulation of binding	IRF7		
+IRF7	regulation of binding	Interferon alpha		
+IRF7	transcription	IFN Beta		
+IRF7	transcription	IFNL1		
+IRF7	transcription	Interferon alpha		
+IRF7	translocation	IRF7		
+Interferon alpha	activation	IRF1		
+Interferon alpha	activation	IRF3		
+Interferon alpha	activation	STAT1		
+Interferon alpha	expression	IFNG		
+Interferon alpha	expression	IRF1		
+Interferon alpha	expression	IRF7		
+Interferon alpha	expression	Interferon alpha		
+Interferon alpha	expression	STAT1		
+Interferon alpha	localization	IFNG		
+Interferon alpha	localization	STAT1		
+Interferon alpha	modification	STAT1		
+Interferon alpha	molecular cleavage	STAT1		
+Interferon alpha	phosphorylation	IRF3		
+Interferon alpha	phosphorylation	STAT1		
+Interferon alpha	protein-protein interactions	IFNG		
+Interferon alpha	protein-protein interactions	IL1B		
+Interferon alpha	regulation of binding	IFNG		
+Interferon alpha	regulation of binding	IRF1		
+Interferon alpha	regulation of binding	IRF3		
+Interferon alpha	regulation of binding	IRF7		
+Interferon alpha	regulation of binding	STAT1		
+Interferon alpha	transcription	IRF1		
+Interferon alpha	transcription	IRF7		
+Interferon alpha	transcription	Interferon alpha		
+Interferon alpha	translocation	IRF3		
+Interferon alpha	translocation	IRF7		
+Interferon alpha	translocation	Interferon alpha		
+Interferon alpha	translocation	STAT1		
+MAVS	activation	IFIH1		
+MAVS	activation	IRF3		
+MAVS	activation	IRF7		
+MAVS	activation	MAVS		
+MAVS	protein-protein interactions	DDX58		
+MAVS	protein-protein interactions	IFIH1		
+MAVS	protein-protein interactions	IRF3		
+MAVS	protein-protein interactions	IRF7		
+MAVS	protein-protein interactions	MAVS		
+NOS2	inhibition	NOS2		
+NOS2	protein-protein interactions	NOS2		
+SIRT1	activation	SIRT1		
+SIRT1	expression	CEBPB		
+SIRT1	expression	DDX58		
+SIRT1	expression	IFNG		
+SIRT1	expression	IL17A		
+SIRT1	expression	IL1B		
+SIRT1	expression	IRF7		
+SIRT1	expression	NOS2		
+SIRT1	expression	STAT1		
+SIRT1	expression	TNF		
+SIRT1	modification	IRF1		
+SIRT1	protein-DNA interactions	SIRT1		
+SIRT1	protein-protein interactions	IRF1		
+SIRT1	protein-protein interactions	IRF3		
+SIRT1	protein-protein interactions	IRF7		
+SIRT1	protein-protein interactions	SIRT1		
+SOCS1	activation	STAT1		
+SOCS1	expression	STAT1		
+SOCS1	inhibition	STAT1		
+SOCS1	protein-protein interactions	IRF3		
+SOCS1	protein-protein interactions	IRF7		
+STAT1	activation	NOS2		
+STAT1	activation	STAT1		
+STAT1	expression	IFIH1		
+STAT1	expression	IFNG		
+STAT1	expression	IFNL1		
+STAT1	expression	IL1B		
+STAT1	expression	IL2		
+STAT1	expression	IRF1		
+STAT1	expression	IRF7		
+STAT1	expression	Interferon alpha		
+STAT1	expression	NOS2		
+STAT1	expression	SOCS1		
+STAT1	expression	STAT1		
+STAT1	expression	TLR4		
+STAT1	expression	TNF		
+STAT1	localization	IFNG		
+STAT1	localization	STAT1		
+STAT1	modification	STAT1		
+STAT1	molecular cleavage	STAT1		
+STAT1	phosphorylation	STAT1		
+STAT1	protein-DNA interactions	IFNG		
+STAT1	protein-DNA interactions	IL1B		
+STAT1	protein-DNA interactions	IRF1		
+STAT1	protein-DNA interactions	NOS2		
+STAT1	protein-DNA interactions	SOCS1		
+STAT1	protein-DNA interactions	STAT1		
+STAT1	protein-protein interactions	DDX58		
+STAT1	protein-protein interactions	IFNG		
+STAT1	protein-protein interactions	IRF1		
+STAT1	protein-protein interactions	MAVS		
+STAT1	protein-protein interactions	STAT1		
+STAT1	regulation of binding	IRF1		
+STAT1	regulation of binding	STAT1		
+STAT1	transcription	IL1B		
+STAT1	transcription	IRF1		
+STAT1	transcription	STAT1		
+STAT1	translocation	STAT1		
+STAT1	ubiquitination	STAT1		
+TICAM1	activation	IRF3		
+TICAM1	activation	IRF7		
+TICAM1	protein-protein interactions	IRF3		
+TICAM1	protein-protein interactions	IRF7		
+TICAM1	protein-protein interactions	MAVS		
+TICAM1	protein-protein interactions	TICAM1		
+TLR4	activation	TICAM1		
+TLR4	activation	lipopolysaccharide		
+TLR4	chemical-protein interactions	lipopolysaccharide		
+TLR4	inhibition	lipopolysaccharide		
+TLR4	protein-protein interactions	TICAM1		
+TLR4	protein-protein interactions	TLR4		
+TLR4	translocation	TLR4		
+TMEM173	activation	IRF3		
+TMEM173	protein-protein interactions	DDX58		
+TMEM173	protein-protein interactions	IRF3		
+TMEM173	protein-protein interactions	MAVS		
+TMEM173	protein-protein interactions	TMEM173		
+TNF	activation	CEBPB		
+TNF	expression	CEBPB		
+TNF	protein-protein interactions	Interferon alpha		
+TNF	protein-protein interactions	TNF		
+TNF	translocation	TNF		
+TRIM24	activation	STAT1		
+TRIM24	expression	DDX58		
+TRIM24	expression	IFIH1		
+TRIM24	expression	IL5		
+TRIM24	expression	IRF1		
+TRIM24	expression	IRF7		
+TRIM24	expression	SOCS1		
+TRIM24	expression	STAT1		
+TRIM24	phosphorylation	STAT1		
+TRIM24	protein-DNA interactions	STAT1		
+TRIM24	protein-protein interactions	TRIM24		
+TRIM24	regulation of binding	TRIM24		
+lipopolysaccharide	activation	TLR4		
+lipopolysaccharide	chemical-protein interactions	IFNG		
+lipopolysaccharide	chemical-protein interactions	TLR4		
+lipopolysaccharide	expression	IFNG		
+lipopolysaccharide	localization	IFNG		
